@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Purity & HIV/AIDS"
+date:   2005-03-30 11:56:28 -0700
+categories:
+---
+<a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/james-keenan-sj.html" target="_blank">James Keenan, S.J.</a> gave the Gasson Lecture at BC today, a paper entitled "Educating in a time of HIV/AIDS."  While he said many things worth discussing, he underscored the 'lack of political' will in finding a solution to the pandemic, despite detailed and accurate analysis and sufficient resources.  The lack of political will is 'sheathed by a fearful protectionism concerned with preserving moral purity rather than care for the other' (a reasonably accurate paraphrase).  Official government responses to AIDS/HIV are characterized by a concern to preserve 'our image' and 'our children.'  Thus, we can't fund needle exchange programs despite studies which establish that they <em>don't</em> increase drug use and they <em>do</em> save lives, because we can't send mixed messages to our children (an example given by Jim).
+
+I am struck by the problem of mixed messages, the fear that we cannot do what we know to be helpful to save lives because we are afraid of what it might communicate to our children.  The same logic lies behind abstinance only sex-education.   If we encourage our youth to wait, <em>and</em> educate them about the use of condemns, birth control, safe sex and sexually transmitted diseases, we will be giving them a mixed message.  Really?  Are our youth so naive and unable to think that they cannot consider their options responsibly?  If they are so naive, it is our own fault.
+
+There are two problems (at least) underlying this protectionist fear.
+
+First, the fear of ambiguity.  What is wrong with a message that is ambiguous, that encourages individuals towards an honest and responsible assesment of the decisions they must make in a reality of multiple options?  Do we really think that if we tell our children that there is only one option, it will blind them to a world full of choices?  By doing so, rather than encourage them to make an informed and responsible choice, we usher them unprepared into a world where they <em>will</em> have to make decisions among conflicting options.  We simply cannot protect our children or ourselves that way.  We live in a world full of mixed messages.  We need to learn to make weigh options and take responsibility for our choices.
+
+Second, the our insistence on purity.  This is particularly disturbing, especially in light of Jesus.  Jesus was so unafraid of preserving the image of purity that he was thought to be no different than the sinners with whom he spent his time.  And yet we, as followers of Jesus, are concerned that no one mistake us for the person who contracted a disease in a back alley, or at the tip of a needle.
+
+As an Orthodox, I find this disturbing.  We, especially during lent, spend a great deal of time focusing on fasting, on ascetical discipline.  Yet does this necessarily help us become people of mercy and compassion, who are unafraid to associate with those our church says are the least?  Is our own individual purity more important than serving those in need?  Is it more important for us to go liturgy than it is to serve the poor?  Mother Maria Skobtsova is provocative because she is seems to imply that serving the poor is a eucharistic activity of the same value as actually taking the eucharist.  It is sad that she is <em>unique</em> in our tradition.
