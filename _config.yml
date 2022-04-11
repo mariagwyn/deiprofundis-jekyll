@@ -41,7 +41,7 @@ youtube:          mariagwyn
 
 # Build settings
 #theme: minima
-theme: bulma-clean-theme
+theme: jekyll-theme-cayman
 # With GitHub Pages Gem
 # remote_theme: chrisrhymes/bulma-clean-theme
 
