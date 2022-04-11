@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Conservative Feminism?"
+date:   2008-10-20 09:00:00 -0700
+tags: politics feminism
+---
+<p>
+My sister and I had a series of interesting discussions when Palin was first picked.  We went from shock at the apparent stupidity of the decision, the sheer ridiculousness of the idea that she will appeal to women, to a sort of grudging admiration for the apparent brilliance (intentional or not) of the pick.  At first, we laughed at the idea of a beauty queen as president.  But do we really want to assert that beauty and brains can't go together (even if they periodically don't)?  Then we wondered how in the world the mother of a down-syndrome child could work in such a high-stress position as VP.  But we did not want to undercut the many women who work outside of the home, or the fathers who choose to share fully in the lives of their children (no idea if this is true of Todd or not).  The list went on, and we realized that the McCain campaign had managed to select a woman who appears to embody a number of feminist values, but with whom we share virtually no common ground on policy issues.  
+</p>
+<p>
+As a woman who embodies “feminism,” she is a hard-working mother of five, she is clearly bright and articulate (if ill-informed), capable of leading men and women, she has made what I am sure are difficult choices in her family.  She appears to “do it all.”  How can we critique her for that?  I actually think, along with an apparently very conservative constituency, that a “<a href="http://www.nytimes.com/2008/10/19/us/politics/19palin.html?pagewanted=1&amp;_r=1&amp;em%E2%80%9D">can-do caretaker</a>” might make a great national leader.  Unlike <a href="http://www.nytimes.com/2008/10/19/us/politics/19palin.html?pagewanted=1&amp;_r=1&amp;em%E2%80%9D">Mr. Hawkins the Trucker</a>, NOT this one.  What makes her a conservative “feminist” (if she even labels herself as a feminist - conservatives don't like the word even if they reap the benefits) is that she advocates policies I disagree with, not all of which are anti-feminist.  I think the NRA is a shamefully irresponsible organization; I think not all women can bear the burden of a downs-child or are in a position to take advantage of adoption services; I think oil drilling in Alaska is short-sighted.  The list goes on.  But I find it difficult to critique her choices as a woman and a mother, since a part of my own feminism is a commitment to allow women to make choices that best fit their lifestyle and values, even if I would not make the same choices.  I am not sure it is a part of her “feminism” however.
+</p>
+<p>
+The ironic thing is this: her campaign seems to appeal to the very things I thought feminism was meant to change.  We don't call possible future leaders of our nation “<a href="http://www.nytimes.com/2008/10/19/us/politics/19palin.html?pagewanted=1&amp;_r=1&amp;em%E2%80%9D">hot chicks</a>” and we don't beg them to marry us.  This is how we treat sex symbols, women (and men) who are judged by how they stir desire, objects we can possess for our own sexual fantasy (after all, isn't this what the goal of the man who wants to marry Palin because she is beautiful, not because he knows her as a partner?).  National leaders are not the hot girl-next-door who can pound a beer with you while you wolf-whistle at her exposed neckline.  This is not the respectful treatment given to someone who needs to be able to make well-informed, difficult decisions that will affect more than just a small town in Alaska.  I am disgusted by the warm reception given to Palin, just as I was disgusted by the icy response to Hillary, an equally hard-working and woman who does not use her sex appeal to get out the vote.  She used her mind, her abilities, her knowledge.  And she lost.
+</p>
+<p>
+The SNL skit below underscores that Palin (or her handlers) do not represent any kind of feminism that I can respect.  We don't want competent, capable, strong-willed and brilliant women.  We still want our women cute, appealing and sexy.  Which somehow makes them non-threatening.  This isn't post-feminism, or conservative feminism.  It is just sexism, alive and well.
+</p>
+<div class="update">
+<p>
+It appears that <a href="http://www.salon.com/mwt/broadsheet/feature/2008/10/20/dudes_for_palin/index.html" target="_blank">Kate Harding at Salon.com</a> is equally disturbed by the oddity of the NYT article's assertion of &quot;conservative feminism&quot; and the behavior of Palin's supporters.
+</p>

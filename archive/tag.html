@@ -1,0 +1,45 @@
+---
+layout: page
+permalink: /archive/tag
+title: All The Things (by tag)
+hero_image: /assets/images/chi.jpg
+hero_height: is-fullwidth
+---
+<h2 id="tags">Tags</h2>
+<h3>alphabetical</h3>
+{% assign sortedTags = site.tags | sort %}
+<div class="tag-list">
+{% for tag in sortedTags %}
+	<a class="tag" href="#{{tag[0]}}">{{ tag[0] }}&nbsp;({{ tag[1] | size }})</a>
+{% endfor %}
+</div>
+<h3>by post count</h3>
+{% capture tags %}
+  {% for tag in site.tags %}
+    {{ tag[1].size | plus: -10000 }}###{{ tag[0] | replace: ' ', '##' }}###{{ tag[1].size }}
+  {% endfor %}
+{% endcapture %}
+{% assign countedTags = tags | split: ' ' | sort %}
+{% for countedTag in countedTags %}
+    {% assign items = countedTag | split: '###' %}
+    {% assign tag = items[1] | replace: '##', ' ' %}
+    {% assign count = items[2] | plus: 0 %}
+    {% if count > 5 %}
+        {% assign size = 5 %}
+    {% else %}
+        {% assign size = count %}
+    {% endif %}
+    <span class="tag-size-{{ size }}">
+        <a class="tag" href="#{{ tag | slugify }}" rel="tag">{{ tag }}&nbsp;({{ count }})</a>
+    </span>
+{% endfor %}
+
+{% for tag in sortedTags %}
+<section class="posts-by-tag">
+  <h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
+  {% for post in tag[1] %}
+  	{% include blog-listing.html %}
+  {% endfor %}
+  <p><a href="#" class="internal-link">All Tags &#8593;</a></p>
+</section>
+{% endfor %}

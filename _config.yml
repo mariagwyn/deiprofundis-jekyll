@@ -20,16 +20,31 @@
 
 title: Dei Profundis
 email: mariagwyn@gmail.com
+name:          Dei Profundis | Maria Gwyn McDowell
 description: >- # this means to ignore newlines until "baseurl:"
   Dei Profundis is the primary blog of <a href="http://mariagwyn.com/">Maria Gwyn McDowell</a>. Started in 2005, it is a personal theological and exploration into or out of the depths of life in God.
+author: Maria Gwyn McDowell
+author-image: /assets/images/Maria_McDowell-2017.jpg
+copyright:     Copyright (c) 2022 | Maria Gwyn McDowell | All rights reserved
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://deiprofundis.org" # the base hostname & protocol for your site, e.g. http://example.com
+email:         mariagwyn@gmail.com
+
+# Social Media
+github:           mariagwyn
+facebook:         mariagwyn
+linkedin:   maria-mcdowell-29593218
+soundcloud:       mariagwyn
+twitter:          mariagwyn
+youtube:          mariagwyn
 
 # Build settings
-theme: minima
+#theme: minima
+theme: bulma-clean-theme
+# With GitHub Pages Gem
+# remote_theme: chrisrhymes/bulma-clean-theme
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -53,3 +68,27 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+paginate: 5
+paginate_path: "/blog/page:num"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Maria Gwyn McDowell"
+      layout: post
+      image: /assets/images/chi.jpg
+      hero_image: /assets/images/chi.jpg
+      show_sidebar: true
+
+markdown: kramdown
+highlighter: rouge
+
+footer_menu: example_footer_menu

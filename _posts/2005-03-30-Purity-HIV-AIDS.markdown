@@ -2,7 +2,7 @@
 layout: post
 title:  "Purity & HIV/AIDS"
 date:   2005-03-30 11:56:28 -0700
-categories:
+tags: bioethics fear
 ---
 <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/james-keenan-sj.html" target="_blank">James Keenan, S.J.</a> gave the Gasson Lecture at BC today, a paper entitled "Educating in a time of HIV/AIDS."  While he said many things worth discussing, he underscored the 'lack of political' will in finding a solution to the pandemic, despite detailed and accurate analysis and sufficient resources.  The lack of political will is 'sheathed by a fearful protectionism concerned with preserving moral purity rather than care for the other' (a reasonably accurate paraphrase).  Official government responses to AIDS/HIV are characterized by a concern to preserve 'our image' and 'our children.'  Thus, we can't fund needle exchange programs despite studies which establish that they <em>don't</em> increase drug use and they <em>do</em> save lives, because we can't send mixed messages to our children (an example given by Jim).
 
@@ -10,7 +10,7 @@ I am struck by the problem of mixed messages, the fear that we cannot do what we
 
 There are two problems (at least) underlying this protectionist fear.
 
-First, the fear of ambiguity.  What is wrong with a message that is ambiguous, that encourages individuals towards an honest and responsible assesment of the decisions they must make in a reality of multiple options?  Do we really think that if we tell our children that there is only one option, it will blind them to a world full of choices?  By doing so, rather than encourage them to make an informed and responsible choice, we usher them unprepared into a world where they <em>will</em> have to make decisions among conflicting options.  We simply cannot protect our children or ourselves that way.  We live in a world full of mixed messages.  We need to learn to make weigh options and take responsibility for our choices.
+First, the fear of ambiguity.  What is wrong with a message that is ambiguous, that encourages individuals towards an honest and responsible assessment of the decisions they must make in a reality of multiple options?  Do we really think that if we tell our children that there is only one option, it will blind them to a world full of choices?  By doing so, rather than encourage them to make an informed and responsible choice, we usher them unprepared into a world where they <em>will</em> have to make decisions among conflicting options.  We simply cannot protect our children or ourselves that way.  We live in a world full of mixed messages.  We need to learn to make weigh options and take responsibility for our choices.
 
 Second, the our insistence on purity.  This is particularly disturbing, especially in light of Jesus.  Jesus was so unafraid of preserving the image of purity that he was thought to be no different than the sinners with whom he spent his time.  And yet we, as followers of Jesus, are concerned that no one mistake us for the person who contracted a disease in a back alley, or at the tip of a needle.
 
