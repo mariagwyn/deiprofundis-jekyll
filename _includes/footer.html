@@ -12,9 +12,23 @@
         </div>
         {% endif %}
         <div class="columns">
-          {% include callout_contactinfo.html %}
+          {% assign link = site.data.subscribes.name %}
+          {% if site.data.subscribes %}
+          <div class="column subscribes">
+            <ul class="subscribe-list notification is-primary is-transparent">
+              {% for item in site.data.subscribes %}
+                <li class="{{ item.class }}">{{ item.introtext }} <a href="{{ item.link }}">{{ item.name }}</a> {{ item.outrotext }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
           {% include callout_socialmedia.html %}
-          {% include callout_colophon.html %}
+          {% assign item = site.data.colophon.name %}
+          {% for item in site.data.colophon %}
+          <div class="column">
+            {{ item.content}}
+          </div>
+          {% endfor %}
         </div>
         <div class="content is-small has-text-centered">
             <p class="">This site is built with <a href="https://github.com/jekyll/jekyll">Jekyll</a> and <a href="https://pages.github.com/">hosted on github</a>. The base theme uses the <a href="https://bulma.io/">Bulma CSS framework</a>, with the help of <a href="https://www.csrhymes.com">Bulma Clean Theme</a></p>

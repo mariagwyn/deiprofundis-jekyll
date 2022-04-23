@@ -5,9 +5,10 @@
 layout: page
 title: DeiProfundis
 subtitle: Theology | Ethics | Liberation
-hero_image: /assets/images/chi.jpg
 hero_height: is-fullwidth
-
+post-listlong: true
+hero_image: chi.jpg
+hero_color: is-white
 ---
 
 Dei Profundis was for many years the primary blog of <a href="http://mariagwyn.com/">Maria Gwyn McDowell</a>. For the last few years, she has focused on blogging at <a href="https://womenintheology.org/">Women in Theology</a> where you can read <a href="https://womenintheology.org/author/mariagwyn/">her most current contributions</a> to the theological blogosphere. She may, at some point, come back to Dei Profundis. At the moment, it remains available as an archive of interesting conversation.

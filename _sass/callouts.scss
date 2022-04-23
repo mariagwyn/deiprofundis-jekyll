@@ -1,0 +1,54 @@
+@charset "utf-8";
+.callout {
+  position: relative;
+  margin: 0 0 1rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 1rem;
+  background-color: white;
+  color: #fff;
+  display: block;
+
+  .title {
+    color: $white;
+  }
+}
+.solid {
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  height: 2em;
+  margin: -1em -1em 1em;
+}
+.column.cv {
+  a {
+    background-color: rgba($link, .5);
+  }
+  .solid {
+    background-color: rgba($link, .8);
+  }
+  &:hover {
+    .callout {background-color: rgba($link, .8);}
+  }
+}
+.academia {
+  .solid {
+    background-color: rgba($primary, .8);
+  }
+  .callout {
+    background-color: rgba($primary, .5);
+  }
+  &:hover {
+    .callout {background-color: rgba($primary, .8);}
+  }
+}
+.ekklesia {
+  .solid {
+    background-color: rgba($info, .8);
+  }
+  .callout {
+    background-color: rgba($info, .5);
+  }
+  &:hover {
+    .callout {background-color: rgba($info, .8);}
+  }
+}

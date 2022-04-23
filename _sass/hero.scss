@@ -1,0 +1,40 @@
+@charset "utf-8";
+.hero {
+  background-size: cover;
+  background-attachment: fixed;
+  border: solid $primary;
+  border-width: 1px 0;
+  &.is-white .title {
+    color: $primary;
+  }
+  &.is-white .subtitle {
+    color: $primary;
+    opacity: .8;
+  }
+}
+
+.dumbotron {
+  background-attachment: fixed;
+  background-image: url("/assets/images/hero-default.jpg");
+  background-size: cover;
+  border-bottom: 1px solid #301b11;
+  border-top: 1px solid #301b11; }
+.dumbotron .highlight-1 .callout {
+  padding-top: 0; }
+.dumbotron .highlight-1 a.callout {
+  display: block; }
+.dumbotron .highlight-1 p {
+  color: #fff;
+  font-size: 110%; }
+.dumbotron .highlight-2 {
+  background-color: rgba(48, 27, 17, 0.7);
+  color: #fff;
+  margin: 1.8em 0 2em;
+  padding-top: 1em; }
+.dumbotron h2,
+.dumbotron h3,
+.dumbotron h4,
+.dumbotron h5,
+.dumbotron h6 {  color: #fff; }
+.hero.dumbotron.is-primary .title {color: $red;}
+.hero.dumbotron.is-primary .subtitle {color: $red; opacity:.8;}

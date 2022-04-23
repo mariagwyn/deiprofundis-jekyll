@@ -24,12 +24,15 @@ name:          Dei Profundis | Maria Gwyn McDowell
 description: >- # this means to ignore newlines until "baseurl:"
   Dei Profundis is the primary blog of <a href="http://mariagwyn.com/">Maria Gwyn McDowell</a>. Started in 2005, it is a personal theological and exploration into or out of the depths of life in God.
 author: Maria Gwyn McDowell
-author-image: /assets/images/Maria_McDowell-2017.jpg
+author-image: /assets/images/author-picture.jpg
 copyright:     Copyright (c) 2022 | Maria Gwyn McDowell | All rights reserved
+image-localpath: /assets/images/
+image-baseurl: https://s3-us-west-2.amazonaws.com/mariagwyn-media/images/
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://deiprofundis.org" # the base hostname & protocol for your site, e.g. http://example.com
-email:         mariagwyn@gmail.com
+email:        mariagwyn@gmail.com
+ga_id:        G-CDREMEBBR5
 
 # Social Media
 github:           mariagwyn
@@ -39,16 +42,33 @@ soundcloud:       mariagwyn
 twitter:          mariagwyn
 youtube:          mariagwyn
 
-# Build settings
-#theme: minima
-# theme: bulma-clean-theme
-# With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+defaults:
+  -
+    scope:
+       path: ""
+    values:
+      author: "Maria Gwyn McDowell"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      hero_image: hero-default.jpg
+      image: /assets/images/hero-default.jpg
+      show_sidebar: true
+      post-listlong: false
 
+# Build settings
+# theme: mgm-bulma-jekyll
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
-
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -68,27 +88,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-paginate: 5
-paginate_path: "/blog/page:num"
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      show_sidebar: false
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      author: "Maria Gwyn McDowell"
-      layout: post
-      image: /assets/images/chi.jpg
-      hero_image: /assets/images/chi.jpg
-      show_sidebar: true
-
-markdown: kramdown
-highlighter: rouge
-
-footer_menu: example_footer_menu

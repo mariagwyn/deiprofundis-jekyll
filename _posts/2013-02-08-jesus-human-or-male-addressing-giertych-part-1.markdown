@@ -1,5 +1,6 @@
 ---
-title: In boldness, look to God for helpIs Jesus human, or male? Addressing Giertych, Part 1.
+title: Is Jesus human, or male?
+subtitle: Addressing Giertych, Part 1
 layout: post
 date: '2013-02-08 07:00:00 -0700'
 tags:

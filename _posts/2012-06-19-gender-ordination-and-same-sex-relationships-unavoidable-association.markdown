@@ -3,6 +3,7 @@ layout: post
 title:  "Gender, Ordination and Same-sex relationships: An unavoidable association?"
 date:   2012-06-19 7:00:00 -0700
 tags: women ordination priesthood favorites
+hero_image: eisodia-theotokou-eikona.jpeg
 ---
 In May 2004 I wrote a response to an article printed in _The Word_, the magazine of the Antiochian Orthodox Archdiocesan.  In it, I argue that Orthodox theology allows for the possibility of female priests.  In doing so, I was entering into a discussion with the likes of Mdm. Elisabeth Behr-Sigel, Metrs. Anthony Bloom and Kallistos Ware, Dr. Valerie Karras and Sr. Nonna Harrison, and Fr. Thomas Hopko, all of whom consider (or ‘considered,’ both Behr-Sigel and Bloom are of blessed memory) the topic an open question. At least one of the responses to my article projected that my arguments were merely a precursor for the ordination of openly (and presumably sexually active) gay clergy. 
 

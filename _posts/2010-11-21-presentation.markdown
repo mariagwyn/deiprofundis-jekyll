@@ -3,12 +3,12 @@ layout: post
 title:  "The Presentation"
 date:   2010-11-21 09:00:00 -0700
 tags: Theotokos gender liturgy
-hero_image: https://upload.wikimedia.org/wikipedia/commons/5/5f/Presentation_of_Virgin_Mary_%28icon%29.jpg
+hero_image: eisodia-theotokou-eikona.jpeg
+hero_remote: true
+hero_vertposition: center
+excerpt: Today, we were invited to bring our children to the church of God, presenting them much like Joachim and Anna presented the girl Mary.  In her delight at being dedicated to God, Mary ran up the steps of the temple.  Tradition says she danced on the steps before God.
 ---
-<figure class="image"><a href="http://en.wikipedia.org/wiki/File:Presentation_of_Virgin_Mary_(icon).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Presentation_of_Virgin_Mary_%28icon%29.jpg"></a>
-<span>The Presentation of the Theotokos</span>
-<div class="attribution">Russian icon<br />
-16th century, <a href="http://en.wikipedia.org/wiki/File:Presentation_of_Virgin_Mary_(icon).jpg">Wikimedia Commons</a></div></figure>
+{% include image.html remote=true ratio="is-4x5" src="eisodia-theotokou-eikona.jpeg" alt="Presentation of the Theotokos" attribution="<a href='http://en.wikipedia.org/wiki/File:Presentation_of_Virgin_Mary_(icon).jpg'>Wikimedia Commons</a>"%}
 
 <p>Today, we were invited to bring our children to the church of God, presenting them much like Joachim and Anna presented the girl Mary.  In her delight at being dedicated to God, Mary ran up the steps of the temple.  Tradition says she danced on the steps before God.  There she was welcomed by her relative, the levite Zacharias who took her into the holy of holies, that sacred space into which the high priest entered only once a year.  A young girl stood in the place where God, according to Jewish practice, stood.</p>
 <p>Today, I read yet again the announcment inviting young men, ages 10 thru college, to serve in the altar during liturgy.  Girls are not mentioned.</p>

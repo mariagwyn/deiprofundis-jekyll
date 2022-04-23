@@ -1,0 +1,18 @@
+@charset "utf-8";
+.is-transparent {opacity:.8;}
+.is-not-transparent {opacity: 1;}
+
+h1.site-name a {
+    -webkit-text-fill-color: rgba(125,30,25,0.75);
+    -webkit-text-stroke-color: #7d1e19;
+    -webkit-text-stroke-width: 1px;
+    color: #7d1e19;
+}
+.post-header {
+  //border-bottom: 1px solid $blue;
+}
+.left {
+  float: left;
+  padding-right: 2em;
+}
+.intertext {color: $danger; font-style: italic;}
