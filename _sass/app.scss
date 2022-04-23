@@ -35,11 +35,10 @@ $danger: $red;
 $scheme-main: #fffdee;
 $link-hover: $info;
 $link-hover-border: $info;
+//@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+@import "../node_modules/bulma/bulma.sass";
 
 @import "various.scss";
 @import "image.scss";
 @import "callouts.scss";
 @import "hero.scss";
-
-//@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
-@import "../node_modules/bulma/bulma.sass";

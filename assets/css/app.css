@@ -1,121 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito:400,700");
-.is-transparent {
-  opacity: .8; }
-
-.is-not-transparent {
-  opacity: 1; }
-
-h1.site-name a {
-  -webkit-text-fill-color: rgba(125, 30, 25, 0.75);
-  -webkit-text-stroke-color: #7d1e19;
-  -webkit-text-stroke-width: 1px;
-  color: #7d1e19; }
-
-.left {
-  float: left;
-  padding-right: 2em; }
-
-.intertext {
-  color: #7d1e19;
-  font-style: italic; }
-
-.image.is-30 {
-  height: 30%;
-  width: 30%; }
-
-.callout {
-  position: relative;
-  margin: 0 0 1rem 0;
-  padding: 1rem;
-  border: none;
-  border-radius: 1rem;
-  background-color: white;
-  color: #fff;
-  display: block; }
-  .callout .title {
-    color: #fff; }
-
-.solid {
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
-  height: 2em;
-  margin: -1em -1em 1em; }
-
-.column.cv a {
-  background-color: rgba(74, 123, 173, 0.5); }
-
-.column.cv .solid {
-  background-color: rgba(74, 123, 173, 0.8); }
-
-.column.cv:hover .callout {
-  background-color: rgba(74, 123, 173, 0.8); }
-
-.academia .solid {
-  background-color: rgba(125, 30, 25, 0.8); }
-
-.academia .callout {
-  background-color: rgba(125, 30, 25, 0.5); }
-
-.academia:hover .callout {
-  background-color: rgba(125, 30, 25, 0.8); }
-
-.ekklesia .solid {
-  background-color: rgba(119, 147, 26, 0.8); }
-
-.ekklesia .callout {
-  background-color: rgba(119, 147, 26, 0.5); }
-
-.ekklesia:hover .callout {
-  background-color: rgba(119, 147, 26, 0.8); }
-
-.hero {
-  background-size: cover;
-  background-attachment: fixed;
-  border: solid #7d1e19;
-  border-width: 1px 0; }
-  .hero.is-white .title {
-    color: #7d1e19; }
-  .hero.is-white .subtitle {
-    color: #7d1e19;
-    opacity: .8; }
-
-.dumbotron {
-  background-attachment: fixed;
-  background-image: url("/assets/images/hero-default.jpg");
-  background-size: cover;
-  border-bottom: 1px solid #301b11;
-  border-top: 1px solid #301b11; }
-
-.dumbotron .highlight-1 .callout {
-  padding-top: 0; }
-
-.dumbotron .highlight-1 a.callout {
-  display: block; }
-
-.dumbotron .highlight-1 p {
-  color: #fff;
-  font-size: 110%; }
-
-.dumbotron .highlight-2 {
-  background-color: rgba(48, 27, 17, 0.7);
-  color: #fff;
-  margin: 1.8em 0 2em;
-  padding-top: 1em; }
-
-.dumbotron h2,
-.dumbotron h3,
-.dumbotron h4,
-.dumbotron h5,
-.dumbotron h6 {
-  color: #fff; }
-
-.hero.dumbotron.is-primary .title {
-  color: #7d1e19; }
-
-.hero.dumbotron.is-primary .subtitle {
-  color: #7d1e19;
-  opacity: .8; }
-
 /*! bulma.io v0.9.3 | MIT License | github.com/jgthms/bulma */
 /* Bulma Utilities */
 .button, .input, .textarea, .select select, .file-cta,
@@ -7401,3 +7284,120 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 .footer {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
+
+.is-transparent {
+  opacity: .8; }
+
+.is-not-transparent {
+  opacity: 1; }
+
+h1.site-name a {
+  -webkit-text-fill-color: rgba(125, 30, 25, 0.75);
+  -webkit-text-stroke-color: #7d1e19;
+  -webkit-text-stroke-width: 1px;
+  color: #7d1e19; }
+
+.left {
+  float: left;
+  padding-right: 2em; }
+
+.intertext {
+  color: #7d1e19;
+  font-style: italic; }
+
+.image.is-30 {
+  height: 30%;
+  width: 30%; }
+
+.callout {
+  position: relative;
+  margin: 0 0 1rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 1rem;
+  background-color: white;
+  color: #fff;
+  display: block; }
+  .callout .title {
+    color: #fff; }
+
+.solid {
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  height: 2em;
+  margin: -1em -1em 1em; }
+
+.column.cv a {
+  background-color: rgba(74, 123, 173, 0.5); }
+
+.column.cv .solid {
+  background-color: rgba(74, 123, 173, 0.8); }
+
+.column.cv:hover .callout {
+  background-color: rgba(74, 123, 173, 0.8); }
+
+.academia .solid {
+  background-color: rgba(125, 30, 25, 0.8); }
+
+.academia .callout {
+  background-color: rgba(125, 30, 25, 0.5); }
+
+.academia:hover .callout {
+  background-color: rgba(125, 30, 25, 0.8); }
+
+.ekklesia .solid {
+  background-color: rgba(119, 147, 26, 0.8); }
+
+.ekklesia .callout {
+  background-color: rgba(119, 147, 26, 0.5); }
+
+.ekklesia:hover .callout {
+  background-color: rgba(119, 147, 26, 0.8); }
+
+.hero {
+  background-size: cover;
+  background-attachment: fixed;
+  border: solid #7d1e19;
+  border-width: 1px 0; }
+  .hero.is-white .title {
+    color: #7d1e19; }
+  .hero.is-white .subtitle {
+    color: #7d1e19;
+    opacity: .8; }
+
+.dumbotron {
+  background-attachment: fixed;
+  background-image: url("/assets/images/hero-default.jpg");
+  background-size: cover;
+  border-bottom: 1px solid #301b11;
+  border-top: 1px solid #301b11; }
+
+.dumbotron .highlight-1 .callout {
+  padding-top: 0; }
+
+.dumbotron .highlight-1 a.callout {
+  display: block; }
+
+.dumbotron .highlight-1 p {
+  color: #fff;
+  font-size: 110%; }
+
+.dumbotron .highlight-2 {
+  background-color: rgba(48, 27, 17, 0.7);
+  color: #fff;
+  margin: 1.8em 0 2em;
+  padding-top: 1em; }
+
+.dumbotron h2,
+.dumbotron h3,
+.dumbotron h4,
+.dumbotron h5,
+.dumbotron h6 {
+  color: #fff; }
+
+.hero.dumbotron.is-primary .title {
+  color: #7d1e19; }
+
+.hero.dumbotron.is-primary .subtitle {
+  color: #7d1e19;
+  opacity: .8; }
