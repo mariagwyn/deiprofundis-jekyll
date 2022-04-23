@@ -11,7 +11,7 @@ hero_image: chi.jpg
 hero_color: is-white
 ---
 
-Dei Profundis was for many years the primary blog of <a href="http://mariagwyn.com/">Maria Gwyn McDowell</a>. For the last few years, she has focused on blogging at <a href="https://womenintheology.org/">Women in Theology</a> where you can read <a href="https://womenintheology.org/author/mariagwyn/">her most current contributions</a> to the theological blogosphere. She may, at some point, come back to Dei Profundis. At the moment, it remains available as an archive of interesting conversation.
+Dei Profundis was for many years the primary blog of <a href="http://mariagwyn.com/">Maria Gwyn McDowell</a>. For the last few years, she has focused on blogging at <a href="https://womenintheology.org/">Women in Theology</a> where you can read <a href="https://womenintheology.org/author/mariagwyn/">her most current contributions</a> to the theological blogosphere. She is planning to come back to Dei Profundis. But for the moment, it remains available as an archive of interesting conversation.
 
 {% for post in site.posts limit: 8 %}
 {% include post-list.html %}
