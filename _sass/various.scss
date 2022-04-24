@@ -16,3 +16,12 @@ h1.site-name a {
   padding-right: 2em;
 }
 .intertext {color: $danger; font-style: italic;}
+.bulma-overlay-mixin {
+  @include overlay(1.5rem);
+  background-color: $primary;
+  border-radius: 0.25em;
+  color: white;
+  opacity: 0.7;
+  padding: 1em;
+  position:relative;
+}
