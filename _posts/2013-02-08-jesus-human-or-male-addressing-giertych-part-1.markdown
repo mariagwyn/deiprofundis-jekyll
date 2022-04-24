@@ -6,6 +6,7 @@ date: '2013-02-08 07:00:00 -0700'
 tags:
 - ordination
 - women
+
 ---
 Recently, yet another article on why a male-only Catholic priesthood is sensible has been making the rounds of Facebook.  In a [National Catholic Reporter](https://www.ncronline.org/news/theology/why-not-women-priests-papal-theologian-explains), the Dominican Father Wojciech Giertych acknowledges that we cannot really know why Jesus chose only male apostles despite his other counter-cultural acts, but offers some speculation as to the reasons.
 

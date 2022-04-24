@@ -1,8 +1,10 @@
 <figure class="image {{ include.ratio | default: is-16by9 }} {{ include.width | default: is-16by9 }} {{ include.pull }}">
-    {% if include.remote %}
-        <img src="{{ site.image-baseurl | absolute_url }}{{ include.src }}" alt="{{ include.alt }}">
+    {% if include.pathaws %}
+      <img src="{{ site.image-baseurl | absolute_url }}{{ include.src }}" alt="{{ include.alt }}">
+    {% elsif include.pathfull %}
+      <img src="{{ include.src }}" alt="{{ include.alt }}">
     {% else %}
-        <img src="{{ site.image-localpath | absolute_url }}/{{ include.src}}" alt="{{ include.alt }}">
+      <img src="{{ site.image-localpath | absolute_url }}/{{ include.src}}" alt="{{ include.alt }}">
     {% endif %}
     {% if include.alt %}
     <span class="title is-5">{{ include.alt }}</span>

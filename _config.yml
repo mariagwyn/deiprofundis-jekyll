@@ -28,6 +28,7 @@ author-image: /assets/images/author-picture.jpg
 copyright:     Copyright (c) 2022 | Maria Gwyn McDowell | All rights reserved
 image-localpath: /assets/images/
 image-baseurl: https://s3-us-west-2.amazonaws.com/mariagwyn-media/images/
+hero_image: hero-default.jpg
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://deiprofundis.org" # the base hostname & protocol for your site, e.g. http://example.com
