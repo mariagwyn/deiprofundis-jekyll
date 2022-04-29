@@ -9,3 +9,5 @@
       link: /archive/
     - name: by tag
       link: /archive/tag
+- name: Feed
+  link: /feed/

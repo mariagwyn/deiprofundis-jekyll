@@ -5,7 +5,7 @@ permalink: /about/
 image: chi.jpg
 hero_height: is-fullwidth
 ---
-This blog is all about questions. Questions about our life in and from God, the practices that form or misform that life, the theology and ethical perspectives that undergird, or destroy, such a life. This is a forum for engaging discussion and constructive critique.
+Maria Gwyn McDowell started DeiProfundis in 2005 to engage questions about what it means to participate with God in creation, the shape of our life in God, and to examine some of the practices that form or mis-form that life, and the theology and ethical perspectives that undergird, or destroy, such a life. Most of the posts are theological in nature. Some of them are just random fun. 
 
 ## About the name "Dei Profundis"
 "De Profundis" is the Latin opening to <a href="http://bible.oremus.org/?ql=70813836" target="_blank" title="Psalm 130 - NRSV">Psalm 130</a>, "Out of the depths I cry to you Oh Lord," an oft repeated Lenten refrain. "Dei" is Latin for "of God." So, "deiprofundis" is a neologism that translates to something like "out of the depths of God" or "out of God from the depths," or whatever spin you want to give it. I considered "Εκ Βαθεον" but we in the West don't do so well with Greek. And alas, "deprofundis" was taken, by the Hungarian T-Mobile and a WOW Guild. Now, it is a Hungarian NGO. Go figure.
