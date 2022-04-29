@@ -2,7 +2,7 @@
 layout: page
 permalink: /archive/
 title: All The Things (by Year)
-hero_image: /assets/images/hero-default.jpg
+image: hero-default.jpg
 hero_height: is small
 ---
 {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}

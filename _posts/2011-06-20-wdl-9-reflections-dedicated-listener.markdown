@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 9: Reflections of a 'dedicated listener'"
 date:   2011-06-20 9:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <p>Before the conference, I was asked to be a “dedicated listener,” sharing my reflections in our final session together.  This is, for the most part, what I said, minus ad lib and tears:</p>
 <p>The question with which I entered this conference, is how do we have this conversation?  I ask this because, as we have seen over the last few days, there is a wide range of thought, comfort, emotion and opinion on this issue.  Since it is apparently my call to ask questions, often uncomfortable ones, I would like to present questions which I hope reflect what was said, not simply what I heard.</p>

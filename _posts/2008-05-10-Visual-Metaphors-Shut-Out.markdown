@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual Metaphors: Shut Out"
 date:   2008-05-10 09:00:00 -0700
-hero_image: /assets/images/Chora_Anastasis2.jpg
+image: /assets/images/Chora_Anastasis2.jpg
 tags: metaphor
 ---
 <p>This post is so overdue it is almost pointless, except that I keep returning to this idea of “visual metaphors.”  We are used to verbal metaphors which refer things we see, and my current reading companion, Gregory of Nazianzus, uses abundant pictorial language to convey his rhetorically and philosophically rich theology.  What I mean here are not metaphors that refer to what we see, but things that we see which serve as metaphors.</p>

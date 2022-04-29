@@ -3,3 +3,15 @@
     height: 30%;
     width: 30%;
 }
+
+.content .card figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.mosaic {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 1rem;
+
+}

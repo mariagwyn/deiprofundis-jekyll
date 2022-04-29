@@ -1,6 +1,6 @@
 {% if page.callouts %}
     {% assign callouts=site.data.[page.callouts] %}
-    <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}" {% if callouts.hero_image %} style="background-image: url('{{ callouts.hero_image }}');" {% endif %}>
+    <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}" {% if callouts.image %} style="background-image: url('{{ callouts.image }}');" {% endif %}>
         <div class="hero-body">
             <div class="container">
                 <div class="columns is-multiline is-centered callouts">

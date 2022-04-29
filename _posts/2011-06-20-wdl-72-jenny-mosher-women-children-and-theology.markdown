@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 7.2: Jenny Mosher, 'Women, Children and Theology'"
 date:   2011-06-20 8:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <p>Jenny Mosher gave an excellent presentation on her developing theology of childhood.</p>
 <p>Mosher’s work on childhood grew out of one-too-many encounters with parenting material that recommended parenting techniques based on an an entirely non-Orthodox anthropology.  She wanted to explore the vulnerability of children to sometimes dangerous parental choices, to understand how Christians in the Orthodox tradition have thought about children.  Like Frost, she thought to start with scripture.  Also like Frost, she discovered that scriptural resources on childhood are limited, particularly Jesus’ (who is after all, the model of our humanity which inevitably includes childhood), least in canonical texts.  </p>

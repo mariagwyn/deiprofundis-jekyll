@@ -2,16 +2,16 @@
 <div class="block">
 <div class="columns post-header">
   <div class="column card-image is-3">
-    {% if post.hero_image %}
+    {% if post.image %}
     <figure class="image is-3by1">
         {% if post.hero_remote == "aws" %}
-          <img src="{{ site.image-baseurl }}{{ post.hero_image }}" alt="{{ post.title }}">
+          <img src="{{ site.image-baseurl }}{{ post.image }}" alt="{{ post.title }}">
         {% elsif post.hero_remote == "fullpath" %}
-          <img src="{{ post.hero_image }}" alt="{{ post.title }}">
+          <img src="{{ post.image }}" alt="{{ post.title }}">
         {% elsif post.hero_remote == "local" %}
-          <img src="{{ site.image-localpath | absolute_url }}{{ post.hero_image }}" alt="{{ post.title }}">
+          <img src="{{ site.image-localpath | absolute_url }}{{ post.image }}" alt="{{ post.title }}">
           {% else %}
-            <img src="{{ site.image-localpath | absolute_url }}{{ site.hero_image }}" alt="{{ post.title }}">
+            <img src="{{ site.image-localpath | absolute_url }}{{ site.image }}" alt="{{ post.title }}">
         {% endif %}
     </figure>
     {% endif %}

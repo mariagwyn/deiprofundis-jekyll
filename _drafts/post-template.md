@@ -3,7 +3,7 @@ layout: post
 title:  "Template"
 date:   2022-05-23 09:00:00 -0700
 tags: template
-hero_image: chi.jpg
+image: chi.jpg
 hero_remote: false
 hero_vertposition: center
 hero_color: is-white

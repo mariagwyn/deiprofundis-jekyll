@@ -1,5 +1,5 @@
 height: is-small
-hero_image: /assets/images/hero-default.jpg
+image: /assets/images/hero-default.jpg
 style: dumbotron
 items:
   - title: Resume

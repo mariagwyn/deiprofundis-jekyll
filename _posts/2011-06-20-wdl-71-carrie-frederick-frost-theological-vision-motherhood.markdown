@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 7.1: Carrie Frederick Frost, 'A Theological Vision of Motherhood'"
 date:   2011-06-20 7:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <p>Saturday gave conference participants the opportunity to attend smaller workshops on a variety of topics, practical and theological.  I have attached the schedule, and I strongly recommend that if any of the topics are of interest to your communities, invite these women to come and speak!  </p>
 <p>I was fortunate enough to decide to attend Carrie Frederick Frost’s session on an “Orthodox Theological Vision of Motherhood.”  I say “fortunate” for two reasons:  First, I had already heard of some Orthodox woman somewhere writing an ethics dissertation on motherhood, and my honest thought was, “sigh, yet another set of romantic notions of universal female motherhood to unpack” (see my comments on Julianna Schmemann’s opening plenary to the conference).  Frost, in one of our numerous conversations, quickly dispelled my anxiety.  I asked her opinion on Schmemann’s (both the husband and wife in this case) invocation, and she responded:</p>

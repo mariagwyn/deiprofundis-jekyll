@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 5: A surprising turn of conversation..."
 date:   2011-06-17 8:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <p>The afternoon (yesterday, I am a bit behind) was opened to comments.  Rather than summarize, I am simply going to post peoples (slightly edited and nameless) comments, some of which I found very surprising:</p>
 <blockquote><p>When I graduated from seminary, all of us, men and women, were given a cross as a sign of the Bishop’s blessing to teach.  While I preached before receiving the cross, I discovered that wearing the cross makes a difference, it is the indication of an official blessing from the bishop to serve, indicating reciprocity and responsibility.  It makes a difference.</p>

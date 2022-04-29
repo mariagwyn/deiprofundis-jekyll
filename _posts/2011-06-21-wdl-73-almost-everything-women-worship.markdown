@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 7.3: (Almost everything but) Women in Worship"
 date:   2011-06-21 7:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <p>I attended the workshop “Women in Worship” with high hopes.  The topic was women <i>in worship</i>.  Not women outside of worship, not women in ministry in general, but <i>in worship</i>.  When Orthodox say “worship,” we mean “liturgy.”  This was the only session on the issue of the liturgical participation of women in ministry.  It should have been quite good, given that women are participating in liturgy with increasing frequency (though still with painful slowness).  What an opportunity to hear reflections on this change, the struggles which remain, and encouragement to creatively persist.</p>
 <p>The vast majority of the opening presentation however, said nothing about women in worship.  Instead, the work of women outside the church was affirmed as itself a ministry (yes, working in the public school-system of NY is indeed a service to world, no argument here).  </p>

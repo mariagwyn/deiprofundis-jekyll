@@ -3,11 +3,11 @@ layout: post
 title:  "Pascha Cheese Recipe"
 date:   2022-04-17 09:00:00 -0700
 tags: recipe
-hero_image: https://lh3.googleusercontent.com/Bc-0OImm4IO8a41J07ok8aEupahc-zOvy9xW_LpPLiYnIbrbFuEA6BBPoZ_YujQQepEb8kKOXYrlPTbDOcZRv57HM4Xqol8GfrwYhSkvcjoXGeagkY66gqBnZGJDy_I0899d6CbTM7s=w2400
+image: https://lh3.googleusercontent.com/Bc-0OImm4IO8a41J07ok8aEupahc-zOvy9xW_LpPLiYnIbrbFuEA6BBPoZ_YujQQepEb8kKOXYrlPTbDOcZRv57HM4Xqol8GfrwYhSkvcjoXGeagkY66gqBnZGJDy_I0899d6CbTM7s=w2400
 hero_remote: fullpath
 hero_vertposition: center
 hero_color: is-primary
-excerpt: The Pascha Cheese was a this year
+excerpt: The Pascha Cheese was a hit this year, the best ever!
 ---
 This recipe for Pascha Cheese was given to me by mother. It was passed around, and adjusted by, the women of the Russian Orthodox church I grew up with. I make it every year that I have time. The Pascha Cheese was a hit this year, probably the best ever. I suspect it was because of the extra lemon zest, and the real farmer's cheese, which is only available in the early spring.
 
@@ -41,3 +41,4 @@ You should start this at least three days before you plan to serve it. Add a few
 - Place upside down over bowl, and cover with lid, drain for about three days. If your mix is wet, you may want to put pressure on the cheese to help squeeze out the water. I often fill a plastic container with water and put it on the top (which is the bottom, because it is upside-down, remember?) to use weight to slowly squeeze it.
 
 Once it has set, remove from the mold and decorate with sliced strawberries, silver cake decorating balls, almond slivers, whatever.
+{% include gallery-embed.html gallery="gallery-pascha2022" %}

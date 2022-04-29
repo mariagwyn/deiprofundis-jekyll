@@ -3,7 +3,7 @@ layout: post
 title:  "The Presentation"
 date:   2010-11-21 09:00:00 -0700
 tags: Theotokos gender liturgy
-hero_image: eisodia-theotokou-eikona.jpeg
+image: eisodia-theotokou-eikona.jpeg
 hero_remote: local
 hero_color: is-primary
 hero_vertposition: center

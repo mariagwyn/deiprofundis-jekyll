@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 6: Women in real, live, ministry"
 date:   2011-06-20 6:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <p>Friday afternoon was given over to a panel of four women engaging in active service ministries.  Ann Campbell runs a St. Nektarios OCF house at the University of Oregon.  Over 60% of our youth leave the Orthodox Church when they go to college.  Her job, as she says, is to provide a committed faith-home for students, to be a “midwife for Christian adulthood,” helping students transition into a mature, adult faith. </p>
 <p>Sarah Byrne is one of the few endorsed female chaplains in the OCA, actively praying for and with the sick.  As an Orthodox chaplain working in a non-profit healthcare organization, she ministers to men and women from a wide range of faith perspectives.  She visits patients, assesses their spiritual needs within that moment.  As an end-of-life chaplain, she works to help patients identify their fears regarding death, remaining need for forgiveness and reconciliation, and the resources he or she has to address these areas.  As Orthodox Christians, she says, we have a unique way of considering death as a bright sadness, able to pray with our eyes open, taking our lesson from a liturgical life which teaches us to stand and pray in the dark, lighting candles when necessary.</p>

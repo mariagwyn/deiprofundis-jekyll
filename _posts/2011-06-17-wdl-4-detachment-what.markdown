@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 4: Detachment from what?"
 date:   2011-06-17 7:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <p>I am grouping the next two talks into one post, partly due to time, but mostly because they are thematically related.  Dr. Kyriaki FitzGerald spoke on the connection between Eve, Mary and Us, emphasizing the blessedness of those who hear the word of God and keep it.  Dr. Mary Ford offered the diverse lives of women saints, each of whom attained holiness in and through the circumstances of their lives.  The common thread through each is freely responding to the work of God in order to abide in God, acquiring grace.  Ford’s emphasized that fulfilling our vocation is not necessarily about fulfilling our gifts, but to do whatever is before us with all our hearts.</p>
 <p>FitzGerald emphasized the basis of discipleship, the need to freely abide in God.  She notes the process by which the Serpent deceived Eve, “softly cooing delusional fantasies,” distracting her with a debate on the technicalities of the rules, convincing her to turn away from a person, God, to an IT, a desirable tree and its fruit.  Her choice, freely made, is balanced by the free choice of another woman, through whom Christ is brought into the world.  In the Theotokos, God dwells in humanity, all “men and women are called to give birth to Christ” (an image popular in both Maximus and Symeon the New Theologian).</p>

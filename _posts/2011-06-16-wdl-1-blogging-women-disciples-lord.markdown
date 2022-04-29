@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 1: Blogging 'Women Disciples of the Lord'"
 date:   2011-06-16 09:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <figure class="image"><img alt="Icon of the Myrrhbearing Women" src="/assets/images/myrrh-bearing1.jpg" /><span>Icon of the Myrrhbearing Women</span></figure>
 <p>Due to the generosity of friends and loved ones who offered time, resources, and encouragement, I am now at St. Vladimir’s Seminary, awaiting the start of the conference “<a href="http://www.svots.edu/events/women-disciples-lord-annual-summer-conference-2011" target="_blank">Women Disciples of the Lord</a>.” As one of its organizers, Dr. Peter Bouteneff noted in his <a href="http://www.svots.edu/headlines/women-orthodox-church-here-and-now" target="_blank">Faculty Footnote</a>, organizing this conference is a challenge “partly because there are several strongly held and often opposing opinions on this subject.” He was contacted by women “who say, in no uncertain terms (and with a touch of resentment) that ‘there is no problem’ surrounding women in the Church, that ‘nothing needs validating.’” Others who contacted him are “deeply hurt by the Church’s inability to find a place for women (including young women and girls) in the Church’s life. They also believe that the Church itself has been functioning at a reduced capacity, not engaging more fully this huge constituency of its membership” (I love that phrase, “reduced capacity.” I wish I had thought of it.) While he is sure that some attendees will be among the simply curious, “almost nobody who has contacted us is neutral or vague about this issue in the slightest.”</p>

@@ -20,15 +20,15 @@
 
 title: Dei Profundis
 email: mariagwyn@gmail.com
-name:          Dei Profundis | Maria Gwyn McDowell
+name:  Dei Profundis | Maria Gwyn McDowell
 description: >- # this means to ignore newlines until "baseurl:"
-  Dei Profundis is the primary blog of <a href="http://mariagwyn.com/">Maria Gwyn McDowell</a>. Started in 2005, it is a personal theological and exploration into or out of the depths of life in God.
+  Theology | Ethics | Liberation | Jesus. The blog of <a href="http://mariagwyn.com/">Maria Gwyn McDowell</a>.
 author: Maria Gwyn McDowell
 author-image: /assets/images/author-picture.jpg
 copyright:     Copyright (c) 2022 | Maria Gwyn McDowell | All rights reserved
 image-localpath: /assets/images/
 image-baseurl: https://s3-us-west-2.amazonaws.com/mariagwyn-media/images/
-hero_image: hero-default.jpg
+image: hero-default.jpg # the default hero image for posts/pages
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://deiprofundis.org" # the base hostname & protocol for your site, e.g. http://example.com
@@ -40,8 +40,23 @@ github:           mariagwyn
 facebook:         mariagwyn
 linkedin:   maria-mcdowell-29593218
 soundcloud:       mariagwyn
-twitter:          mariagwyn
 youtube:          mariagwyn
+twitter:
+  username: mariagwyn
+  card: summary
+social:
+  name: Maria Gwyn McDowell
+  links:
+    - https://twitter.com/mariagwyn
+    - https://www.facebook.com/mariagwyn
+    - https://www.linkedin.com/in/maria-mcdowell-29593218
+    - https://github.com/mariagwyn
+
+# RSS Settings
+rss_path: /feed
+rss_name: index.xml
+rss_post_limit: 10
+twitter_rss: /twitter
 
 defaults:
   -
@@ -60,8 +75,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-      hero_image: hero-default.jpg
-      image: /assets/images/hero-default.jpg
+      image: hero-default.jpg
       show_sidebar: true
       post-listlong: false
 

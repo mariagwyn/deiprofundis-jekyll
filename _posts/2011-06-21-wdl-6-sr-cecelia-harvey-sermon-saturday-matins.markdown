@@ -3,7 +3,7 @@ layout: post
 title:  "WDL 6: Sr. Cecelia Harvey, Sermon for Saturday Matins"
 date:   2011-06-21 9:00:00 -0700
 tags: women Orthodoxy WDL
-hero_image: /assets/images/myrrh-bearing1.jpg
+image: /assets/images/myrrh-bearing1.jpg
 ---
 <h3>Sr. Cecelia Harvey</h3>
 <h4>Our Lady of the Sign,<br />
