@@ -8,6 +8,7 @@ hero_remote: fullpath
 hero_vertposition: center
 hero_color: is-primary
 excerpt: The Pascha Cheese was a hit this year, the best ever!
+support: [jquery, gallery]
 ---
 This recipe for Pascha Cheese was given to me by mother. It was passed around, and adjusted by, the women of the Russian Orthodox church I grew up with. I make it every year that I have time. The Pascha Cheese was a hit this year, probably the best ever. I suspect it was because of the extra lemon zest, and the real farmer's cheese, which is only available in the early spring.
 

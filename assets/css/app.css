@@ -7326,6 +7326,19 @@ h1.site-name a {
   margin-left: 0;
   margin-right: 0; }
 
+.content .grid-item figure {
+  margin-left: .2rem;
+  margin-right: .2rem; }
+
+.grid-item {
+  width: 200px; }
+
+.grid-item--width2 {
+  width: 400px; }
+
+.grid-item .card-content {
+  padding: .25rem .25rem 1rem; }
+
 .mosaic {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
