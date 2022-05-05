@@ -4,7 +4,7 @@ title:  "The Ice Dragon"
 date:   2022-05-05 09:00:00 -0700
 tags: fiction
 image: https://lh3.googleusercontent.com/x-WMb58bOdHT5RkRjZhPEj4t2OYtKez2iB7DlJFbr2rtMyg1D3YEgGQmCyNxJsNRGPTu-yvmvOmmN0o8L8l2esCfHRtE_g_6GM9NHZU3hlwkbaJskNSrTCgGrNWgJb_T_GpjnfzPQUw=w2400
-hero_remote: true
+hero_remote: full patch
 hero_vertposition: center
 hero_color: is-white
 excerpt: "But dragons, they aren't like us. The don't end like we end. Being made of the world itself, they can be remade by the world. Born of fire, frozen in stone made of the meeting of fire and ice, our young friend slowly but surely became that which surrounded her."
